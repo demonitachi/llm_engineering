@@ -87,8 +87,7 @@ class FrontierAgent(Agent):
         response = self.client.chat.completions.create(
             model=self.MODEL,
             messages=self.messages_for(description, documents, prices),
-            seed=42,
-            reasoning_effort="none",
+            seed=42
         )
         reply = response.choices[0].message.content
         result = self.get_price(reply)
