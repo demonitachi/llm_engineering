@@ -16,5 +16,14 @@
     },
     "estimate": 930.8824204895075,
     "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "The Open-Box AKG K240 Studio Headphones deliver high-quality audio performance suitable for both studio and casual listening environments. These over-ear headphones feature a semi-open design that provides a natural soundstage and comfortable listening experience. With a detachable cable for easy replacement and a wide frequency response, the K240 headphones are a reliable choice for sound professionals and audio enthusiasts alike.",
+      "price": 70.0,
+      "url": "https://www.dealnews.com/products/AKG/AKG-Acoustics-K240-Studio-Over-Ear-Semi-Open-Pro-Headphones/102352.html?iref=rss-c142"
+    },
+    "estimate": 140.04375457763672,
+    "discount": 70.04375457763672
   }
 ]

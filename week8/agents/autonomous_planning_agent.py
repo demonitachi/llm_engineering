@@ -11,7 +11,7 @@ import json
 class AutonomousPlanningAgent(Agent):
     name = "Autonomous Planning Agent"
     color = Agent.GREEN
-    MODEL = "gpt-5.1"
+    MODEL = "gpt-4o-mini"
 
     def __init__(self, collection):
         """
